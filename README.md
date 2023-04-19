@@ -7,6 +7,7 @@ VIPs stand for Valid ID Implementation Possibilities. This protocol aims to buil
 * [VIP-03: Key](./03.md)
 * [VIP-04: Role](./04.md)
 * [VIP-05: Deletion](./05.md)
+* [VIP-06: Delegation](./06.md)
 
 ## Event Kinds	
 |kind|description|VIP|
@@ -15,3 +16,4 @@ VIPs stand for Valid ID Implementation Possibilities. This protocol aims to buil
 |1 | Key      |	03|
 |2 | Role     |	04|
 |3 | Deletion |	03,04,05,06|
+|4 | Delegation| 04,06|
